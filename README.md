@@ -1,5 +1,7 @@
 # Replication package: the empirical cost–quality frontier of strip-packing heuristics
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23252643.svg)](https://doi.org/10.5281/zenodo.23252643)
+
 Code and data for a controlled computational study re-measuring the
 two-dimensional strip-packing heuristic landscape under one protocol:
 104 classical benchmark instances plus a six-instance ZDF scale tier
