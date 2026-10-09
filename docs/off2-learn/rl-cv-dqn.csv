@@ -1,0 +1,5 @@
+tag,variant,held,rl,portfolio,best_fixed,oracle,fallback
+dqn-hold-C,dqn,C,5.2249,3.1812,6.8386,2.0833,0.5714
+dqn-hold-BKW,dqn,BKW,2.9936,1.5721,3.6859,1.4103,0.7692
+dqn-hold-NT,dqn,NT,7.4429,5.0500,8.0429,4.1929,0.6571
+dqn-hold-PV,dqn,PV,5.8179,4.7990,6.1329,4.1911,0.8667
