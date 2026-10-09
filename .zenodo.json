@@ -1,0 +1,29 @@
+{
+  "title": "Code and data for mapping the empirical cost-quality frontier of two-dimensional strip-packing heuristics",
+  "description": "Python code and data for a controlled cost-quality study of strip-packing heuristics under one protocol (shared rotation-valid lower bound, serial thread-capped timing, CPU and wall time recorded): the configurable constructive engine, all measurement drivers, benchmark instances (104 classical, six ZDF scale-tier, 43 furniture-industry), and per-instance raw results (CSV).",
+  "creators": [
+    {
+      "name": "Lin, Wenru",
+      "affiliation": "University of Science and Technology of China; Minjiang University",
+      "orcid": "0000-0002-4416-2971"
+    },
+    {
+      "name": "Yang, Zhouwang",
+      "affiliation": "University of Science and Technology of China",
+      "orcid": "0000-0002-9454-9146"
+    },
+    {
+      "name": "Liu, Lei",
+      "affiliation": "Minjiang University",
+      "orcid": "0000-0002-6180-1341"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "strip packing",
+    "constructive heuristics",
+    "algorithm portfolios",
+    "cost-quality analysis",
+    "benchmarking"
+  ]
+}
